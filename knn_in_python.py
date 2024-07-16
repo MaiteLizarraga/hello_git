@@ -40,3 +40,5 @@ algoritmo_knn(3)
 # OTRA FORMA DE HACERLO
 df['distancia'] = np.sqrt((df['Altura'] - 178)**2 + (df['Peso'] - 82)**2)
 
+## This is just the KNN algorithm broken down into python code.
+
