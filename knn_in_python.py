@@ -42,3 +42,7 @@ df['distancia'] = np.sqrt((df['Altura'] - 178)**2 + (df['Peso'] - 82)**2)
 
 ## This is just the KNN algorithm broken down into python code.
 
+
+# import ollama
+# print(ollama.__version__)
+
